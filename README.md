@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning node js(express)  and devops</p>
+<p align="left">📚 I'm currently learning Nodejs(express), SQL(PostgresSQL) and devops practices!</p>
 
 ###
 
