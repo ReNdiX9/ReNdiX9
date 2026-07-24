@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-  My name is <strong>Yehor</strong> and I'm a passionate <strong>Full-Stack Developer</strong> 🚀  
+  My name is <strong>Yehor</strong> and I'm a <u>passionate <strong>Full-Stack Developer</strong></u> 
   I enjoy building modern web applications, learning how things work under the hood,  
   and constantly improving my engineering skills.
 </p>
@@ -11,7 +11,7 @@
 <p align="left">
   💻 I love working with both frontend and backend technologies  
   <br/>
-  🧠 Strong focus on clean code, fundamentals, and real-world projects  
+  🧠 Strong focus on clean code, communication, fundamentals, and real-world projects  
   <br/>
   📚 Currently expanding my knowledge in <strong>DevOps, CI/CD pipelines, and Java (Spring)</strong>  
   <br/>
