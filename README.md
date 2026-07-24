@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-  My name is <strong>Yehor</strong> and I'm a <u>passionate <strong>Full-Stack Developer</strong></u> 
+  My name is <strong>Yehor</strong> and I'm a <u>passionate</u><strong>Full-Stack Developer</strong>
   I enjoy building modern web applications, learning how things work under the hood,  
   and constantly improving my engineering skills.
 </p>
@@ -59,7 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
   <img width="12" />
 
-  <!-- Tools -->
+  <!-- Tools -->  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
