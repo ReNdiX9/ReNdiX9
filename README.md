@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-  My name is <strong>Yehor</strong> and I'm a <u>passionate</u><strong>Full-Stack Developer</strong>
+  My name is <strong>Yehor</strong> and I'm a <u>passionate</u> <strong>Full-Stack Developer</strong>
   I enjoy building modern web applications, learning how things work under the hood,  
   and constantly improving my engineering skills.
 </p>
